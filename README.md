@@ -23,18 +23,7 @@ Retail-Sales-Excel-Dashboard/
 ├── Dataset.xlsx
 ├── README.md
 │
-├── Images/
-│   ├── Dashboard.png
-│   ├── Sales.png
-│   ├── KPIs.png
-│   ├── Region.png
-│   ├── Product.png
-│   └── Customer.png
-│
-├── Documentation/
-│   └── Dashboard_Guide.pdf
-│
-└── Assets/
+├-Dashborad Imgae
 ```
 
 ---
@@ -84,6 +73,3 @@ Retail-Sales-Excel-Dashboard/
 
 If you like this project, please consider giving it a ⭐ on GitHub!
 
-<p align="center">
-<img src="Images/Dashboard.png" width="90%">
-</p>
